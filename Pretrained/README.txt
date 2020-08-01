@@ -1,4 +1,4 @@
-This folder contains all pretrained models for the main results in our paper.
+This folder contains all pretrained models.
 Please see 'loadmodel.ipynb' for instruction to load the pretrained model parameters.
 
 1. pretrained models of four cases: stable, unstable, midnoise and forcing
